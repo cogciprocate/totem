@@ -1,0 +1,23 @@
+[package]
+name = "totem"
+version = "0.0.1"
+authors = ["Nick Sanders <cogciprocate@gmail.com>"]
+description = "Totem"
+# documentation = "https://doc.cogciprocate.com/totem"
+homepage = "https://github.com/cogciprocate/totem"
+repository = "https://github.com/cogciprocate/totem"
+readme = "README.md"
+# keywords = ["vulkan", "gpu", "gpgpu", "async"]
+license = "MIT/Apache-2.0"
+exclude = ["target/*", "*.png", "bak/*"]
+# categories = ["asynchronous", "concurrency", "science", "api-bindings"]
+
+[dependencies]
+# winit = "*"
+# libloading = "*"
+# smallvec = "*"
+# vks = { path = "../vks", features = ["proc_addr_loader_glob_functions"] }
+# libc = "*"
+# # nalgebra = "*"
+# cgmath = "*"
+# image = "*"
